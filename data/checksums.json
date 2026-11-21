@@ -1,0 +1,289 @@
+{
+  "acsdt5y2024-b01003.dat": {
+    "bytes": 18313708,
+    "sha256": "38d1a992bb058d184009b10b9b34987279aee575e4323165cfb5706c69b6ca90",
+    "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b01003.dat",
+    "vintage": "2020-2024",
+    "what": "ACS 2020-2024 5-year, B01003: Total population"
+  },
+  "acsdt5y2024-b19013.dat": {
+    "bytes": 17917916,
+    "sha256": "b25a176b0e6c339b6f3a2a0d3d8446bf06f5f080b4395993ec9a8313efb1c229",
+    "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b19013.dat",
+    "vintage": "2020-2024",
+    "what": "ACS 2020-2024 5-year, B19013: Median household income (inflation-adjusted dollars)"
+  },
+  "acsdt5y2024-b28002.dat": {
+    "bytes": 58063218,
+    "sha256": "12446ff0691b8818f5908cdc398817361772c5b3078c506d0409adc9c841840b",
+    "url": "https://www2.census.gov/programs-surveys/acs/summary_file/2024/table-based-SF/data/5YRData/acsdt5y2024-b28002.dat",
+    "vintage": "2020-2024",
+    "what": "ACS 2020-2024 5-year, B28002: Presence and types of internet subscriptions in household"
+  },
+  "cbp12co.zip": {
+    "bytes": 15098584,
+    "sha256": "b7bbe26fb31e02fa624e3d64f7e868329d500fd1d0f16e6440e1611d6bafe365",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2012/cbp12co.zip",
+    "vintage": "2012",
+    "what": "County Business Patterns 2012, county file"
+  },
+  "cbp12st.zip": {
+    "bytes": 10176748,
+    "sha256": "7c19c93121145db45f027922c31bbc36990e37b2d3b150616e3bff53c33a1421",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2012/cbp12st.zip",
+    "vintage": "2012",
+    "what": "County Business Patterns 2012, state file"
+  },
+  "cbp12us.zip": {
+    "bytes": 647569,
+    "sha256": "c11e1ad3000ebe411ddb591480968c017a5b96c671afdcb1a7fa1f7c7542f5d9",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2012/cbp12us.zip",
+    "vintage": "2012",
+    "what": "County Business Patterns 2012, national file"
+  },
+  "cbp13co.zip": {
+    "bytes": 15098248,
+    "sha256": "ca1659fc15e0991d598d8b075f5c72a8603a036d1f6e4b1d1c2fe9e0686bc34e",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2013/cbp13co.zip",
+    "vintage": "2013",
+    "what": "County Business Patterns 2013, county file"
+  },
+  "cbp13st.zip": {
+    "bytes": 10190548,
+    "sha256": "38763cf92d29840286f1409b07c47510e120eb081839d6a8274cfdf9a065336a",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2013/cbp13st.zip",
+    "vintage": "2013",
+    "what": "County Business Patterns 2013, state file"
+  },
+  "cbp13us.zip": {
+    "bytes": 648236,
+    "sha256": "d5928ace5898cfff86494190f892fd2426fad18c7d1aca212733247bf2c1164d",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2013/cbp13us.zip",
+    "vintage": "2013",
+    "what": "County Business Patterns 2013, national file"
+  },
+  "cbp14co.zip": {
+    "bytes": 15117043,
+    "sha256": "e4a360acc0e63b7b5849fa6a983addfd21d8294d454d28f87889975bcfcc5f3b",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2014/cbp14co.zip",
+    "vintage": "2014",
+    "what": "County Business Patterns 2014, county file"
+  },
+  "cbp14st.zip": {
+    "bytes": 10271973,
+    "sha256": "c00a063f889e25ab92cb2ee9a19332a1a2dc22a1027e690c3042a1c03a7c758a",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2014/cbp14st.zip",
+    "vintage": "2014",
+    "what": "County Business Patterns 2014, state file"
+  },
+  "cbp14us.zip": {
+    "bytes": 656490,
+    "sha256": "be0f1ad18297d62c631c9098c6339197331a69465bc9dca70bdc773a20dc04ba",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2014/cbp14us.zip",
+    "vintage": "2014",
+    "what": "County Business Patterns 2014, national file"
+  },
+  "cbp15co.zip": {
+    "bytes": 15985142,
+    "sha256": "161e80a9b5ad210043ba9ec75377180d419162e0d6cabca6e6b0102d69821464",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2015/cbp15co.zip",
+    "vintage": "2015",
+    "what": "County Business Patterns 2015, county file"
+  },
+  "cbp15st.zip": {
+    "bytes": 11160240,
+    "sha256": "6af9e0a3be73ed5dd52cff302984d91f64ac370ea1b11290ee950ec583f92e33",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2015/cbp15st.zip",
+    "vintage": "2015",
+    "what": "County Business Patterns 2015, state file"
+  },
+  "cbp15us.zip": {
+    "bytes": 687092,
+    "sha256": "443f9513467a44e06549bfc67ed2cf776d9deb7436ff54d3fbb5c73eb7cc1003",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2015/cbp15us.zip",
+    "vintage": "2015",
+    "what": "County Business Patterns 2015, national file"
+  },
+  "cbp16co.zip": {
+    "bytes": 16004229,
+    "sha256": "94956a68c9eb033f2a1d2d014c6b6b93a669768cb1ead66c28eda83a18797da3",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2016/cbp16co.zip",
+    "vintage": "2016",
+    "what": "County Business Patterns 2016, county file"
+  },
+  "cbp16st.zip": {
+    "bytes": 11200622,
+    "sha256": "053b9f0fc977ba7a969025e6f4cbfe354e33bc64ceec51a138938b63fc5a291c",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2016/cbp16st.zip",
+    "vintage": "2016",
+    "what": "County Business Patterns 2016, state file"
+  },
+  "cbp16us.zip": {
+    "bytes": 688499,
+    "sha256": "59189559f176b0eae9d4d82d8e1adb0adf680eebf71c19f88b70ff796b3743e0",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2016/cbp16us.zip",
+    "vintage": "2016",
+    "what": "County Business Patterns 2016, national file"
+  },
+  "cbp17co.zip": {
+    "bytes": 12813327,
+    "sha256": "6a7f9e8314c28b8738ed50263bd4b031b3b11219417c448f759ab782ddf1b388",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2017/cbp17co.zip",
+    "vintage": "2017",
+    "what": "County Business Patterns 2017, county file"
+  },
+  "cbp17st.zip": {
+    "bytes": 11869971,
+    "sha256": "aadf55f636ada61d55a5dc351c39d95a86f4569bc387c73f905d6fccce9d0d29",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2017/cbp17st.zip",
+    "vintage": "2017",
+    "what": "County Business Patterns 2017, state file"
+  },
+  "cbp17us.zip": {
+    "bytes": 780324,
+    "sha256": "6dfd18b42eb6211652acf0df59ab8f644fb9bff6bc8c801efee395bc7ca77e76",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2017/cbp17us.zip",
+    "vintage": "2017",
+    "what": "County Business Patterns 2017, national file"
+  },
+  "cbp18co.zip": {
+    "bytes": 13460475,
+    "sha256": "b0265feea47c08e92d8c344154ca8679ffcac3f8e3d1a5387a5d7fee8133b857",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2018/cbp18co.zip",
+    "vintage": "2018",
+    "what": "County Business Patterns 2018, county file"
+  },
+  "cbp18st.zip": {
+    "bytes": 11665368,
+    "sha256": "804a7884fedd8db923f922b4df4cac7d7ab53fc0ac77520f7982a0f284a0a0d5",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2018/cbp18st.zip",
+    "vintage": "2018",
+    "what": "County Business Patterns 2018, state file"
+  },
+  "cbp18us.zip": {
+    "bytes": 765039,
+    "sha256": "9301e4d8283e462f758316aef39a752a06d9edb2d1fd0c0e147fa23dce8c2dd3",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2018/cbp18us.zip",
+    "vintage": "2018",
+    "what": "County Business Patterns 2018, national file"
+  },
+  "cbp19co.zip": {
+    "bytes": 11530594,
+    "sha256": "a75f31b5d0b76a0de3957d8289be0359cc4008015bbf492b40c664ccf6580966",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2019/cbp19co.zip",
+    "vintage": "2019",
+    "what": "County Business Patterns 2019, county file"
+  },
+  "cbp19st.zip": {
+    "bytes": 10237372,
+    "sha256": "db56af6fb15cf73c25ad0641b915b25a2c36e514aa48ad7fdd3d8510ad156d33",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2019/cbp19st.zip",
+    "vintage": "2019",
+    "what": "County Business Patterns 2019, state file"
+  },
+  "cbp19us.zip": {
+    "bytes": 664811,
+    "sha256": "f5b53e92edc42eac057b9befd3c8a5587453bfed036c0b28cb7456cc2e149a57",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2019/cbp19us.zip",
+    "vintage": "2019",
+    "what": "County Business Patterns 2019, national file"
+  },
+  "cbp20co.zip": {
+    "bytes": 11472306,
+    "sha256": "3df8fb3409bc5ae5691cd145a45b26f58a29652c4dd4e62f8e709c23fab60e8d",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2020/cbp20co.zip",
+    "vintage": "2020",
+    "what": "County Business Patterns 2020, county file"
+  },
+  "cbp20st.zip": {
+    "bytes": 10203938,
+    "sha256": "d3643115a193b74cf88e2bc6456aef553594992e0371bddeb298ca68a4768b95",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2020/cbp20st.zip",
+    "vintage": "2020",
+    "what": "County Business Patterns 2020, state file"
+  },
+  "cbp20us.zip": {
+    "bytes": 668297,
+    "sha256": "6f1d108af71ec36ac1e74531ef5cdd03753de89c770c70465f7f0460d1d404e9",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2020/cbp20us.zip",
+    "vintage": "2020",
+    "what": "County Business Patterns 2020, national file"
+  },
+  "cbp21co.zip": {
+    "bytes": 11545498,
+    "sha256": "d1d7c917aab46aed5ae7116068e0574cbcec97a722b136166fefa3ab9a9dc258",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2021/cbp21co.zip",
+    "vintage": "2021",
+    "what": "County Business Patterns 2021, county file"
+  },
+  "cbp21st.zip": {
+    "bytes": 10191930,
+    "sha256": "97a26ed42a4ab9bde4f84fa5f84bcc760ade3b8ded010240e78c0366c27a2323",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2021/cbp21st.zip",
+    "vintage": "2021",
+    "what": "County Business Patterns 2021, state file"
+  },
+  "cbp21us.zip": {
+    "bytes": 667843,
+    "sha256": "0e55284e2a75506a29fc3ba4420ead15a653e8b1e5df41287423c776896e78f8",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2021/cbp21us.zip",
+    "vintage": "2021",
+    "what": "County Business Patterns 2021, national file"
+  },
+  "cbp22co.zip": {
+    "bytes": 13723814,
+    "sha256": "dcea1d9a7060cdb763c841d863163856ba8d5a50dce9056992bdeacd08ff99b4",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2022/cbp22co.zip",
+    "vintage": "2022",
+    "what": "County Business Patterns 2022, county file"
+  },
+  "cbp22st.zip": {
+    "bytes": 11832849,
+    "sha256": "e8b2390a26a1f2ae3e73dee626891331bfb2aa9a4ab7e0bc3474b27ae20c5a28",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2022/cbp22st.zip",
+    "vintage": "2022",
+    "what": "County Business Patterns 2022, state file"
+  },
+  "cbp22us.zip": {
+    "bytes": 778618,
+    "sha256": "c6b0aa7670f48667288ffd9e76ca9168e408a81c674793b6b525b9ab04111cc5",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2022/cbp22us.zip",
+    "vintage": "2022",
+    "what": "County Business Patterns 2022, national file"
+  },
+  "cbp23co.zip": {
+    "bytes": 12919520,
+    "sha256": "e9539e96ceb91608ad44ab1cfc651d7c1ff9b88bddfe7a8ff64134ccde6e9603",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23co.zip",
+    "vintage": "2023",
+    "what": "County Business Patterns 2023, county file"
+  },
+  "cbp23st.zip": {
+    "bytes": 11115845,
+    "sha256": "9fc306ecc4f9633092e2432c2db2acdf53798da0480e6f6beeb953d583b41ede",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23st.zip",
+    "vintage": "2023",
+    "what": "County Business Patterns 2023, state file"
+  },
+  "cbp23us.zip": {
+    "bytes": 750265,
+    "sha256": "3f9018f807f1ffd7bcbb00690f9792573bc2bc6bb4cfab9df14ca7ab3eac0862",
+    "url": "https://www2.census.gov/programs-surveys/cbp/datasets/2023/cbp23us.zip",
+    "vintage": "2023",
+    "what": "County Business Patterns 2023, national file"
+  },
+  "co-est2024-alldata.csv": {
+    "bytes": 1769182,
+    "sha256": "abcc8720d669e793bbfdcd440eeec37a78db3b452adbe4ccd1eadf7c72b522b9",
+    "url": "https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/counties/totals/co-est2024-alldata.csv",
+    "vintage": "2024",
+    "what": "Population estimates, Vintage 2024, county totals"
+  },
+  "naics2017.txt": {
+    "bytes": 99360,
+    "sha256": "959b8801c56df74a330bf02f853f7d389b1710d619fa5dd63577a36f783b7483",
+    "url": "https://www2.census.gov/programs-surveys/cbp/technical-documentation/reference/naics-descriptions/naics2017.txt",
+    "vintage": "NAICS 2017",
+    "what": "CBP NAICS code descriptions"
+  }
+}

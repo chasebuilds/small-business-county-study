@@ -1,0 +1,22 @@
+{
+  "estab_per_1000": {
+    "Eastern KY": 16.587573729051588,
+    "Kentucky": 20.74497950268042,
+    "United States": 24.825378007926464
+  },
+  "broadband_pct": {
+    "Eastern KY": 85.27465291115624,
+    "Kentucky": 88.61672478284281,
+    "United States": 90.98146806156485
+  },
+  "income": {
+    "Eastern KY": 42181.0,
+    "Kentucky": 63726.0,
+    "United States": 80734.0
+  },
+  "emp_change_pct_since_2012": {
+    "Eastern KY": -6.68817192215397,
+    "Kentucky": 15.342973814623818,
+    "United States": 20.60858178667671
+  }
+}
