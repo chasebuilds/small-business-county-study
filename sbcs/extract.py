@@ -21,6 +21,7 @@ RAW = ROOT / "data" / "raw"
 EXTRACTS = ROOT / "data" / "extracts"
 COUNTIES = ROOT / "data" / "counties.csv"
 KY = "21"
+LF = chr(10)
 
 
 def load_population(path: Path) -> pd.DataFrame:
@@ -149,11 +150,11 @@ def run() -> None:
     counties = eky_fips(pop)
     keep = set(counties["fips"])
     pop = pop[pop["fips"].isin(keep | {"21000", "00000"})]
-    counties.to_csv(EXTRACTS / "counties.csv", index=False)
-    pop.to_csv(EXTRACTS / "pop.csv", index=False)
-    extract_cbp(keep).to_csv(EXTRACTS / "cbp.csv", index=False)
-    extract_acs(keep).to_csv(EXTRACTS / "acs.csv", index=False)
-    extract_naics_titles().to_csv(EXTRACTS / "naics_titles.csv", index=False)
+    counties.to_csv(EXTRACTS / "counties.csv", index=False, lineterminator=LF)
+    pop.to_csv(EXTRACTS / "pop.csv", index=False, lineterminator=LF)
+    extract_cbp(keep).to_csv(EXTRACTS / "cbp.csv", index=False, lineterminator=LF)
+    extract_acs(keep).to_csv(EXTRACTS / "acs.csv", index=False, lineterminator=LF)
+    extract_naics_titles().to_csv(EXTRACTS / "naics_titles.csv", index=False, lineterminator=LF)
     manifest = {p.name: sha256_text(p) for p in sorted(EXTRACTS.glob("*.csv"))}
     (EXTRACTS / "MANIFEST.json").write_text(
         json.dumps(manifest, indent=2, sort_keys=True) + "\n", encoding="utf-8"
